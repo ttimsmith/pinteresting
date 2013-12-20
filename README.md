@@ -1,3 +1,3 @@
 # Pinteresting
 
-This is a project I created with [One Month Rails](https://onemonthrails.com).
+This is a project I created with [One Month Rails](https://onemonthrails.com)
