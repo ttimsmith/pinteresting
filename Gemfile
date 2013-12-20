@@ -45,6 +45,9 @@ end
 # Use Bootstrap for Styles and Stuff
 gem 'bootstrap-sass', '~> 3.0.3.0'
 
+# Use Devise for User Creation and Auth
+gem 'devise'
+
 group :development, :test do
   gem 'sqlite3'
 end
